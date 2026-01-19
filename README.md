@@ -132,8 +132,8 @@ MIT License
 ### Quick Start
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/username/0promil-cti.git
-    cd 0promil-cti
+    git clone https://github.com/0promil/Tor_CTI_Dashboard
+    cd Tor_CTI_Dashboard
     ```
 
 2.  **Start Services**
