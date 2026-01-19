@@ -1,0 +1,81 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: cti_postgres
+    environment:
+      POSTGRES_DB: 0promil
+      POSTGRES_USER: 0promil
+      POSTGRES_PASSWORD: 0promil
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - cti_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U 0promil -d 0promil"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  go_collector:
+    build:
+      context: ./go_collector
+      dockerfile: Dockerfile
+    container_name: cti_collector
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_USER: 0promil
+      DB_PASSWORD: 0promil
+      DB_NAME: 0promil
+      TOR_PROXY: socks5://tor:9050
+    networks:
+      - cti_network
+    volumes:
+      - ./go_collector:/app
+      - ./php_web/output:/root/output
+    ports:
+      - "8081:8081"
+    restart: unless-stopped
+
+  tor:
+    image: dperson/torproxy:latest
+    container_name: cti_tor
+    networks:
+      - cti_network
+    ports:
+      - "9050:9050"
+    restart: unless-stopped
+
+  php_web:
+    build:
+      context: ./php_web
+      dockerfile: Dockerfile
+    container_name: cti_web
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_USER: 0promil
+      DB_PASSWORD: 0promil
+      DB_NAME: 0promil
+    ports:
+      - "8080:80"
+    networks:
+      - cti_network
+    volumes:
+      - ./php_web:/var/www/html
+      - ./php_web/output:/var/www/html/output
+    restart: unless-stopped
+
+networks:
+  cti_network:
+    driver: bridge
+
+volumes:
+  postgres_data:

@@ -1,0 +1,263 @@
+[2026-01-05 23:56:17] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:56:24] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:57:10] [WARNING] Başarısız giriş denemesi: analiz
+[2026-01-05 23:57:18] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:57:22] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:58:04] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:59:27] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:59:40] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-05 23:59:51] [WARNING] Başarısız giriş denemesi: analiz
+[2026-01-06 00:00:03] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-06 00:01:00] [WARNING] Başarısız giriş denemesi: analiz
+[2026-01-06 00:01:04] [WARNING] Başarısız giriş denemesi: analiz
+[2026-01-06 00:01:20] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-06 00:03:12] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-06 00:03:15] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-06 00:04:08] [INFO] Kullanıcı girişi: admin
+[2026-01-06 00:06:16] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+[2026-01-06 00:06:59] [INFO] Kullanıcı girişi: analiz
+[2026-01-06 00:07:24] [INFO] Kullanıcı girişi: admin
+[2026-01-06 00:24:00] [INFO] Kullanıcı girişi: analiz
+[2026-01-06 00:37:54] [INFO] Kullanıcı girişi: admin
+[2026-01-06 00:38:16] [INFO] Onion adresi silindi: ID 1
+[2026-01-06 00:38:51] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+[2026-01-06 00:39:13] [ERROR] Onion ekleme hatası: SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "onion_adresleri_adres_key"
+DETAIL:  Key (adres)=(http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/) already exists.
+[2026-01-06 00:42:19] [INFO] Analist notu eklendi: Kayıt ID 6
+[2026-01-16 23:04:49] [INFO] Kullanıcı girişi: admin
+[2026-01-16 23:05:38] [INFO] Onion adresi eklendi: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2026-01-16 23:19:51] [INFO] Onion adresi silindi: ID 1
+[2026-01-16 23:20:05] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+[2026-01-16 23:20:05] [INFO] Onion adresi silindi: ID 1
+[2026-01-16 23:31:30] [INFO] Onion adresi silindi: ID 2
+[2026-01-16 23:31:45] [INFO] Onion adresi eklendi: http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/
+[2026-01-16 23:31:45] [INFO] Onion adresi silindi: ID 2
+[2026-01-17 00:48:36] [INFO] Onion adresi silindi: ID 3
+[2026-01-17 00:48:45] [INFO] Onion adresi eklendi: http://ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion/
+[2026-01-17 00:48:45] [INFO] Onion adresi silindi: ID 3
+[2026-01-17 01:01:22] [INFO] Onion adresi silindi: ID 4
+[2026-01-17 01:01:26] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+[2026-01-17 01:01:26] [INFO] Onion adresi silindi: ID 4
+[2026-01-17 01:02:48] [INFO] Onion adresi silindi: ID 5
+[2026-01-17 01:19:02] [INFO] Onion adresi eklendi: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2026-01-17 01:20:17] [INFO] Kullanıcı girişi: admin
+[2026-01-17 01:20:31] [INFO] Onion adresi silindi: ID 6
+[2026-01-17 01:20:44] [INFO] Onion adresi eklendi: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2026-01-17 01:32:26] [INFO] Onion adresi silindi: ID 7
+[2026-01-17 01:32:30] [INFO] Onion adresi eklendi: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2026-01-17 01:32:30] [INFO] Onion adresi silindi: ID 7
+[2026-01-18 19:39:05] [WARNING] Başarısız giriş denemesi: admin
+[2026-01-18 19:39:12] [INFO] Kullanıcı girişi: admin
+[2026-01-18 19:39:35] [INFO] Onion adresi silindi: ID 8
+[2026-01-18 19:39:42] [INFO] Onion adresi eklendi: http://euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion/
+[2026-01-18 19:39:42] [INFO] Onion adresi silindi: ID 8
+[2026-01-18 22:24:05] [INFO] Onion adresi silindi: ID 9
+[2026-01-18 22:24:11] [INFO] Onion adresi eklendi: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2026-01-18 22:24:11] [INFO] Onion adresi silindi: ID 9
+[2026-01-18 22:56:48] [INFO] Onion adresi silindi: ID 10
+[2026-01-18 22:56:53] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+[2026-01-18 22:56:53] [INFO] Onion adresi silindi: ID 10
+[2026-01-18 22:58:22] [INFO] Onion adresi silindi: ID 11
+[2026-01-18 22:58:32] [INFO] Onion adresi eklendi: http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/
+[2026-01-18 22:58:44] [ERROR] Onion ekleme hatası: SQLSTATE[23505]: Unique violation: 7 ERROR:  duplicate key value violates unique constraint "onion_adresleri_adres_key"
+DETAIL:  Key (adres)=(http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/) already exists.
+[2026-01-18 23:08:47] [INFO] Kullanıcı girişi: admin
+[2026-01-18 23:32:32] [INFO] Kullanıcı girişi: admin
+[2026-01-19 00:23:03] [INFO] Kullanici girisi: admin
+[2026-01-19 00:23:31] [INFO] Onion adresi eklendi: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion
+[2026-01-19 00:40:41] [INFO] Kullanici girisi: admin
+[2026-01-19 03:08:30] [ERROR] Kullanıcı ekleme hatası: SQLSTATE[42703]: Undefined column: 7 ERROR:  column "sifre" of relation "kullanicilar" does not exist
+LINE 1: INSERT INTO kullanicilar (kullanici_adi, sifre, rol, aktif) ...
+                                                 ^
+[2026-01-19 03:09:32] [INFO] Yeni kullanıcı eklendi: promil (Rol: admin)
+[2026-01-19 03:09:38] [INFO] Kullanıcı silindi: promil (ID: 3)
+[2026-01-19 03:09:59] [INFO] Yeni kullanıcı eklendi: promil (Rol: admin)
+[2026-01-19 03:09:59] [INFO] Kullanıcı silindi:  (ID: 3)
+[2026-01-19 03:10:12] [INFO] Kullanici girisi: promil
+[2026-01-19 03:12:21] [INFO] Kullanici girisi: admin
+[2026-01-19 03:12:30] [INFO] Kullanıcı silindi: promil (ID: 4)
+[2026-01-19 03:12:40] [INFO] Yeni kullanıcı eklendi: promil (Rol: admin)
+[2026-01-19 03:15:43] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:20:48] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:20:49] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:20:49] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:20:49] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:20:49] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:22:13] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:23:39] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:23:40] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:25:27] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:08] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:13] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:13] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:13] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:14] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:21] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:27:45] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:28:05] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:28:17] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:29:40] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:31:02] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:31:53] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:32:25] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ (Kaynak: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion/ (Kaynak: euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://allvyncoa6nd74g4smxmnvx662ly6tj2ojttt77e2mnycrzv2hnanvid.onion/ (Kaynak: allvyncoa6nd74g4smxmnvx662ly6tj2ojttt77e2mnycrzv2hnanvid.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/ (Kaynak: g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://mnemonic45np3l6o2k5oavgwhyymagmaeh3jeqfdakz3sxliqjct6wad.onion/ (Kaynak: mnemonic45np3l6o2k5oavgwhyymagmaeh3jeqfdakz3sxliqjct6wad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/ (Kaynak: rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://6i42qq2xdu244a3xp2c3gjvcwtp3hurbajesfnsuga2v3frf6x7ivcyd.onion/ (Kaynak: 6i42qq2xdu244a3xp2c3gjvcwtp3hurbajesfnsuga2v3frf6x7ivcyd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/ (Kaynak: ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/ (Kaynak: blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ (Kaynak: santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion/ (Kaynak: ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://c4s7hpsq3tu7wgml3vzbycvwcxjnlsh6m5boyw7ixlkk24jeoywqznyd.onion/ (Kaynak: c4s7hpsq3tu7wgml3vzbycvwcxjnlsh6m5boyw7ixlkk24jeoywqznyd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion/ (Kaynak: ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://22wha6wtnwsb2tvklnwcfukjzqqwqk4dkrgrwfhwffqukeonnk3jp4ad.onion/ (Kaynak: 22wha6wtnwsb2tvklnwcfukjzqqwqk4dkrgrwfhwffqukeonnk3jp4ad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/ (Kaynak: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: https://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/ (Kaynak: reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion/ (Kaynak: qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://venom5wlknvokvvxiczl5x3otal4vbpip5h45jqogglhn3baycpznnqd.onion/ (Kaynak: venom5wlknvokvvxiczl5x3otal4vbpip5h45jqogglhn3baycpznnqd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://57g737gvcitrtbpi6uutlqgix4vga66xzexxiacnof36we4vgdosljad.onion/ (Kaynak: 57g737gvcitrtbpi6uutlqgix4vga66xzexxiacnof36we4vgdosljad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://clzuhx25lnkadj5ulir7iqhanakafwhn24zzi2fvfyml7dtoi6fkxmad.onion/ (Kaynak: clzuhx25lnkadj5ulir7iqhanakafwhn24zzi2fvfyml7dtoi6fkxmad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://lf5j2ovm7zm3fmno7o3dikcx2qw5ipxpztoj6ljvfqkuuhwsxb6bnnad.onion/ (Kaynak: lf5j2ovm7zm3fmno7o3dikcx2qw5ipxpztoj6ljvfqkuuhwsxb6bnnad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://blackbaymp7ahsphu66pofvd6imlb6h5uqn7pxv3de6rpwqgutalnjid.onion/ (Kaynak: blackbaymp7ahsphu66pofvd6imlb6h5uqn7pxv3de6rpwqgutalnjid.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion/ (Kaynak: rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: http://prohqcpxrgccapgxoohihrdhwtdhygee73qamqndfy2vg536cmue6oyd.onion/ (Kaynak: prohqcpxrgccapgxoohihrdhwtdhygee73qamqndfy2vg536cmue6oyd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi eklendi: https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion (Kaynak: exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)
+[2026-01-19 03:32:51] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:36:30] [INFO] Onion adresi eklendi: http://galaxy4ogmifzf2wwdkbedqeps7pzxa53bkluyszq6sqng4u5g5nixid.onion/blog (Kaynak: galaxy4ogmifzf2wwdkbedqeps7pzxa53bkluyszq6sqng4u5g5nixid.onion)
+[2026-01-19 03:36:30] [INFO] Onion adresi silindi: ID 1
+[2026-01-19 03:36:33] [INFO] Onion adresi silindi: ID 49
+[2026-01-19 03:36:35] [INFO] Onion adresi silindi: ID 28
+[2026-01-19 03:36:37] [INFO] Onion adresi silindi: ID 27
+[2026-01-19 03:36:41] [INFO] Onion adresi silindi: ID 2
+[2026-01-19 03:36:43] [INFO] Onion adresi silindi: ID 26
+[2026-01-19 03:36:44] [INFO] Onion adresi silindi: ID 25
+[2026-01-19 03:36:44] [INFO] Onion adresi silindi: ID 24
+[2026-01-19 03:36:45] [INFO] Onion adresi silindi: ID 23
+[2026-01-19 03:36:45] [INFO] Onion adresi silindi: ID 22
+[2026-01-19 03:36:46] [INFO] Onion adresi silindi: ID 21
+[2026-01-19 03:36:46] [INFO] Onion adresi silindi: ID 20
+[2026-01-19 03:36:46] [INFO] Onion adresi silindi: ID 18
+[2026-01-19 03:36:47] [INFO] Onion adresi silindi: ID 17
+[2026-01-19 03:36:47] [INFO] Onion adresi silindi: ID 16
+[2026-01-19 03:36:48] [INFO] Onion adresi silindi: ID 15
+[2026-01-19 03:36:48] [INFO] Onion adresi silindi: ID 14
+[2026-01-19 03:36:49] [INFO] Onion adresi silindi: ID 13
+[2026-01-19 03:36:50] [INFO] Onion adresi silindi: ID 11
+[2026-01-19 03:36:50] [INFO] Onion adresi silindi: ID 10
+[2026-01-19 03:36:51] [INFO] Onion adresi silindi: ID 9
+[2026-01-19 03:36:51] [INFO] Onion adresi silindi: ID 8
+[2026-01-19 03:36:52] [INFO] Onion adresi silindi: ID 7
+[2026-01-19 03:36:52] [INFO] Onion adresi silindi: ID 6
+[2026-01-19 03:36:53] [INFO] Onion adresi silindi: ID 5
+[2026-01-19 03:36:54] [INFO] Onion adresi silindi: ID 4
+[2026-01-19 03:36:54] [INFO] Onion adresi silindi: ID 3
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ (Kaynak: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion/ (Kaynak: euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://allvyncoa6nd74g4smxmnvx662ly6tj2ojttt77e2mnycrzv2hnanvid.onion/ (Kaynak: allvyncoa6nd74g4smxmnvx662ly6tj2ojttt77e2mnycrzv2hnanvid.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/ (Kaynak: g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://mnemonic45np3l6o2k5oavgwhyymagmaeh3jeqfdakz3sxliqjct6wad.onion/ (Kaynak: mnemonic45np3l6o2k5oavgwhyymagmaeh3jeqfdakz3sxliqjct6wad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/ (Kaynak: rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://6i42qq2xdu244a3xp2c3gjvcwtp3hurbajesfnsuga2v3frf6x7ivcyd.onion/ (Kaynak: 6i42qq2xdu244a3xp2c3gjvcwtp3hurbajesfnsuga2v3frf6x7ivcyd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/ (Kaynak: ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/ (Kaynak: blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ (Kaynak: santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion/ (Kaynak: ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://c4s7hpsq3tu7wgml3vzbycvwcxjnlsh6m5boyw7ixlkk24jeoywqznyd.onion/ (Kaynak: c4s7hpsq3tu7wgml3vzbycvwcxjnlsh6m5boyw7ixlkk24jeoywqznyd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion/ (Kaynak: ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://22wha6wtnwsb2tvklnwcfukjzqqwqk4dkrgrwfhwffqukeonnk3jp4ad.onion/ (Kaynak: 22wha6wtnwsb2tvklnwcfukjzqqwqk4dkrgrwfhwffqukeonnk3jp4ad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/ (Kaynak: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: https://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/ (Kaynak: reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion/ (Kaynak: qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://venom5wlknvokvvxiczl5x3otal4vbpip5h45jqogglhn3baycpznnqd.onion/ (Kaynak: venom5wlknvokvvxiczl5x3otal4vbpip5h45jqogglhn3baycpznnqd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://galaxy4ogmifzf2wwdkbedqeps7pzxa53bkluyszq6sqng4u5g5nixid.onion/blog (Kaynak: galaxy4ogmifzf2wwdkbedqeps7pzxa53bkluyszq6sqng4u5g5nixid.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://57g737gvcitrtbpi6uutlqgix4vga66xzexxiacnof36we4vgdosljad.onion/ (Kaynak: 57g737gvcitrtbpi6uutlqgix4vga66xzexxiacnof36we4vgdosljad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://clzuhx25lnkadj5ulir7iqhanakafwhn24zzi2fvfyml7dtoi6fkxmad.onion/ (Kaynak: clzuhx25lnkadj5ulir7iqhanakafwhn24zzi2fvfyml7dtoi6fkxmad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://lf5j2ovm7zm3fmno7o3dikcx2qw5ipxpztoj6ljvfqkuuhwsxb6bnnad.onion/ (Kaynak: lf5j2ovm7zm3fmno7o3dikcx2qw5ipxpztoj6ljvfqkuuhwsxb6bnnad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://blackbaymp7ahsphu66pofvd6imlb6h5uqn7pxv3de6rpwqgutalnjid.onion/ (Kaynak: blackbaymp7ahsphu66pofvd6imlb6h5uqn7pxv3de6rpwqgutalnjid.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion/ (Kaynak: rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: http://prohqcpxrgccapgxoohihrdhwtdhygee73qamqndfy2vg536cmue6oyd.onion/ (Kaynak: prohqcpxrgccapgxoohihrdhwtdhygee73qamqndfy2vg536cmue6oyd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi eklendi: https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion (Kaynak: exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)
+[2026-01-19 03:37:09] [INFO] Onion adresi silindi: ID 3
+[2026-01-19 03:40:26] [INFO] Onion adresi silindi: ID 3
+[2026-01-19 03:52:39] [INFO] Onion adresi silindi: ID 81
+[2026-01-19 03:52:42] [INFO] Onion adresi silindi: ID 84
+[2026-01-19 03:52:47] [INFO] Onion adresi silindi: ID 83
+[2026-01-19 03:52:53] [INFO] Onion adresi silindi: ID 65
+[2026-01-19 04:25:42] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:25:44] [INFO] Onion adresi eklendi: http://rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion/ (Kaynak: rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion)
+[2026-01-19 04:25:44] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:25:54] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:25:57] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:25:59] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:09] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:13] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:15] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:18] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:20] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:27] [INFO] Onion adresi silindi: ID 82
+[2026-01-19 04:26:30] [INFO] Onion adresi silindi: ID 58
+[2026-01-19 04:26:56] [INFO] Onion adresi silindi: ID 114
+[2026-01-19 04:26:57] [INFO] Onion adresi silindi: ID 80
+[2026-01-19 04:26:57] [INFO] Onion adresi silindi: ID 79
+[2026-01-19 04:26:58] [INFO] Onion adresi silindi: ID 78
+[2026-01-19 04:26:58] [INFO] Onion adresi silindi: ID 78
+[2026-01-19 04:26:58] [INFO] Onion adresi silindi: ID 77
+[2026-01-19 04:26:59] [INFO] Onion adresi silindi: ID 76
+[2026-01-19 04:26:59] [INFO] Onion adresi silindi: ID 75
+[2026-01-19 04:26:59] [INFO] Onion adresi silindi: ID 73
+[2026-01-19 04:27:00] [INFO] Onion adresi silindi: ID 72
+[2026-01-19 04:27:00] [INFO] Onion adresi silindi: ID 71
+[2026-01-19 04:27:00] [INFO] Onion adresi silindi: ID 70
+[2026-01-19 04:27:01] [INFO] Onion adresi silindi: ID 69
+[2026-01-19 04:27:01] [INFO] Onion adresi silindi: ID 68
+[2026-01-19 04:27:01] [INFO] Onion adresi silindi: ID 66
+[2026-01-19 04:27:02] [INFO] Onion adresi silindi: ID 64
+[2026-01-19 04:27:02] [INFO] Onion adresi silindi: ID 63
+[2026-01-19 04:27:02] [INFO] Onion adresi silindi: ID 62
+[2026-01-19 04:27:02] [INFO] Onion adresi silindi: ID 61
+[2026-01-19 04:27:03] [INFO] Onion adresi silindi: ID 60
+[2026-01-19 04:27:03] [INFO] Onion adresi silindi: ID 59
+[2026-01-19 04:27:04] [INFO] Onion adresi silindi: ID 57
+[2026-01-19 04:27:21] [INFO] Onion adresi eklendi: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ (Kaynak: suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion/ (Kaynak: euqrjceb3fa3o2rxjuqqkx76qjreqjlvtidfpgfyv6cd4z22hybnccyd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://allvyncoa6nd74g4smxmnvx662ly6tj2ojttt77e2mnycrzv2hnanvid.onion/ (Kaynak: allvyncoa6nd74g4smxmnvx662ly6tj2ojttt77e2mnycrzv2hnanvid.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/ (Kaynak: g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://mnemonic45np3l6o2k5oavgwhyymagmaeh3jeqfdakz3sxliqjct6wad.onion/ (Kaynak: mnemonic45np3l6o2k5oavgwhyymagmaeh3jeqfdakz3sxliqjct6wad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/ (Kaynak: rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://6i42qq2xdu244a3xp2c3gjvcwtp3hurbajesfnsuga2v3frf6x7ivcyd.onion/ (Kaynak: 6i42qq2xdu244a3xp2c3gjvcwtp3hurbajesfnsuga2v3frf6x7ivcyd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/ (Kaynak: ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion/ (Kaynak: blkh4ylofapg42tj6ht565klld5i42dhjtysvsnnswte4xt4uvnfj5qd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ (Kaynak: santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion/ (Kaynak: ewhgmbudmub2m4s6kazu6b3sq27zazmbyol5g7jlbnflfehpxhydnpqd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://c4s7hpsq3tu7wgml3vzbycvwcxjnlsh6m5boyw7ixlkk24jeoywqznyd.onion/ (Kaynak: c4s7hpsq3tu7wgml3vzbycvwcxjnlsh6m5boyw7ixlkk24jeoywqznyd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion/ (Kaynak: ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://22wha6wtnwsb2tvklnwcfukjzqqwqk4dkrgrwfhwffqukeonnk3jp4ad.onion/ (Kaynak: 22wha6wtnwsb2tvklnwcfukjzqqwqk4dkrgrwfhwffqukeonnk3jp4ad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion/ (Kaynak: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: https://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/ (Kaynak: reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion/ (Kaynak: qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://venom5wlknvokvvxiczl5x3otal4vbpip5h45jqogglhn3baycpznnqd.onion/ (Kaynak: venom5wlknvokvvxiczl5x3otal4vbpip5h45jqogglhn3baycpznnqd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://galaxy4ogmifzf2wwdkbedqeps7pzxa53bkluyszq6sqng4u5g5nixid.onion/blog (Kaynak: galaxy4ogmifzf2wwdkbedqeps7pzxa53bkluyszq6sqng4u5g5nixid.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://57g737gvcitrtbpi6uutlqgix4vga66xzexxiacnof36we4vgdosljad.onion/ (Kaynak: 57g737gvcitrtbpi6uutlqgix4vga66xzexxiacnof36we4vgdosljad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://clzuhx25lnkadj5ulir7iqhanakafwhn24zzi2fvfyml7dtoi6fkxmad.onion/ (Kaynak: clzuhx25lnkadj5ulir7iqhanakafwhn24zzi2fvfyml7dtoi6fkxmad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://lf5j2ovm7zm3fmno7o3dikcx2qw5ipxpztoj6ljvfqkuuhwsxb6bnnad.onion/ (Kaynak: lf5j2ovm7zm3fmno7o3dikcx2qw5ipxpztoj6ljvfqkuuhwsxb6bnnad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://blackbaymp7ahsphu66pofvd6imlb6h5uqn7pxv3de6rpwqgutalnjid.onion/ (Kaynak: blackbaymp7ahsphu66pofvd6imlb6h5uqn7pxv3de6rpwqgutalnjid.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion/ (Kaynak: rcbwx654n44axrba7q34aqaq2xhsp67aq244xd6ppgwndqfedjjvijad.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: http://prohqcpxrgccapgxoohihrdhwtdhygee73qamqndfy2vg536cmue6oyd.onion/ (Kaynak: prohqcpxrgccapgxoohihrdhwtdhygee73qamqndfy2vg536cmue6oyd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi eklendi: https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion (Kaynak: exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)
+[2026-01-19 04:27:22] [INFO] Onion adresi silindi: ID 57
+[2026-01-19 04:28:50] [INFO] Onion adresi silindi: ID 57
+[2026-01-19 04:33:12] [WARNING] Basarisiz giris denemesi: promil
+[2026-01-19 04:33:23] [WARNING] Basarisiz giris denemesi: promil
+[2026-01-19 04:33:33] [WARNING] Basarisiz giris denemesi: promil
+[2026-01-19 04:33:40] [WARNING] Basarisiz giris denemesi: promil
+[2026-01-19 04:33:50] [WARNING] Basarisiz giris denemesi: promil
+[2026-01-19 04:33:58] [INFO] Kullanici girisi: admin
+[2026-01-19 04:47:52] [INFO] Onion adresi silindi: ID 151
+[2026-01-19 04:47:54] [INFO] Onion adresi silindi: ID 150
+[2026-01-19 04:47:58] [INFO] Onion adresi silindi: ID 148
+[2026-01-19 04:48:01] [INFO] Onion adresi silindi: ID 132
+[2026-01-19 04:48:05] [INFO] Onion adresi silindi: ID 125
+[2026-01-19 14:32:31] [INFO] Kullanici girisi: admin
